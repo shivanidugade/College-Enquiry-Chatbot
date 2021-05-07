@@ -1,0 +1,136 @@
+<aiml version = "1.0.1" encoding = "UTF-8">
+
+<category>
+  <pattern>
+    * HOSTEL
+  </pattern>
+  <template>
+    <random>
+      <li>
+          The college has  Separate Hostel for Girls and Boys. Boys Hostel is of  60 students capacity and Girls Hostel is of  40 students capacity. Students opting to stay in the hostel have to book their room at the earliest, as allotment is on a first come basis. The KGCE takes care of cleanliness in the hostel, provide hygienic, comfortable surroundings for students.
+        </li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>
+    * HOSTEL *
+  </pattern>
+  <template>
+    <random>
+      <li>
+          The college has  Separate Hostel for Girls and Boys. Boys Hostel is of  60 students capacity and Girls Hostel is of  40 students capacity. Students opting to stay in the hostel have to book their room at the earliest, as allotment is on a first come basis. The KGCE takes care of cleanliness in the hostel, provide hygienic, comfortable surroundings for students.
+        </li>
+    </random>
+  </template>
+</category>
+
+
+<category>
+  <pattern>
+    TELL ME *ABOUT PREMISES*
+  </pattern>
+  <template>
+    <random>
+      <li>
+          The premises of KGCE are located in Karjat Campus which is about 31 acres. Buildings has green environment with huge classrooms, seminar halls with all audio visual equipments. The premises are WiFi enabled. Tutorial rooms, corner discussion area, indoor games and activity centre are other outstanding features of the KGCE premises.The college is completely self financed and one of the leading institutes among all the engineering colleges affiliated to Mumbai University. Currently 1,700 students are enrolled in six various disciplines , viz Computer, IT, EXTC, Mechanical, Production and Instrumentation.
+          We have a library with no. of books and with various journals of national and international repute. Library is also attached with reading section where necessary arrangement for reading and writing with attractive furniture and subscribed to digital library facilities which are available 24X7. Some interesting information/data is also available in the form of CDs, conducive environment for reading is available.
+          </li>
+    </random>
+  </template>
+</category>
+
+<category>
+  <pattern>
+    TELL ME ABOUT *TRANSPORT FACILITIES* OF YOUR COLLEGE
+  </pattern>
+  <template>
+    <random>
+      <li>
+          Transport for daily commuting is generally one of the worries of parents. To enable students to free themselves from the worries of the transportation, we have made arrangements for College buses for students as well as staff. College is running bus services from different locations so that students hailing from any location within Mumbai will have a nearby pickup cumdrop back point to board the college bus to come to college and to go back home. This will make them free from the mental tension of driving or taking public transport system, to come to the college and go back, so that they fully concentrate on their studies. Parents also can have peace of mind while their wards are out in the college and need not worry about the traffic and driving problem.
+        </li>
+    </random>
+  </template>
+</category>
+
+<category>
+      <pattern>
+         ARE YOU HUMAN
+      </pattern>
+      <template>
+        <random>
+          <li>
+           No but you are half correct,I am not human else I'am a Chatbot I am here to help you out
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         ARE YOU REAL
+      </pattern>
+      <template>
+        <random>
+          <li>
+           No, I am not real,I am just an Artificial Intelligence Software
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         ARE YOU ROBOT
+      </pattern>
+      <template>
+        <random>
+          <li>
+           Yes,I am robot,but I'am good one.Let me prove it.How can i help you?
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         HELLO I NEED YOUR HELP
+      </pattern>
+      <template>
+        <random>
+          <li>
+           Hello!,How can i help you?
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHO ARE YOU
+      </pattern>
+      <template>
+        <random>
+          <li>
+           Hi, I am a Chatbot
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WHAT IS YOUR NAME
+      </pattern>
+      <template>
+        <random>
+          <li>
+           My name is Chatbot
+          </li>
+        </random>
+      </template>
+    </category>
+
+
+</aiml>
