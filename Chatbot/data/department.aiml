@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>* DEPARTMENTS *</pattern>
+    <template>Total Five Departments. IT Engineering, Computer Engineering, Mechanical Engineering, EXTC Engineering, Science and Humanities</template>
+</category>
+<category>
+    <pattern> DEPARTMENTS *</pattern>
+    <template>Total Five Departments. IT Engineering, Computer Engineering, Mechanical Engineering, EXTC Engineering, Science and Humanities</template>
+</category>
+<category>
+    <pattern>* DEPARTMENTS </pattern>
+    <template>Total Five Departments. IT Engineering, Computer Engineering, Mechanical Engineering, EXTC Engineering, Science and Humanities</template>
+</category>
+<category>
+    <pattern>* IT *</pattern>
+    <template>https://kgce.edu.in/it-engineering/</template>
+</category>
+<category>
+    <pattern>* IT </pattern>
+    <template>https://kgce.edu.in/it-engineering/</template>
+</category>
+<category>
+    <pattern> IT *</pattern>
+    <template>https://kgce.edu.in/it-engineering/</template>
+</category>
+
+<category>
+    <pattern>* COMPUTER *</pattern>
+    <template>https://kgce.edu.in/from-hod-desk-computer/</template>
+</category>
+<category>
+    <pattern> COMPUTER *</pattern>
+    <template>https://kgce.edu.in/from-hod-desk-computer/</template>
+</category>
+<category>
+    <pattern>* COMPUTER </pattern>
+    <template>https://kgce.edu.in/from-hod-desk-computer/</template>
+</category>
+
+<category>
+    <pattern>* MECHANICAL *</pattern>
+    <template>https://kgce.edu.in/mech-engg/</template>
+</category>
+<category>
+    <pattern> MECHANICAL *</pattern>
+    <template>https://kgce.edu.in/mech-engg/</template>
+</category>
+<category>
+    <pattern>* MECHANICAL  </pattern>
+    <template>https://kgce.edu.in/mech-engg/</template>
+</category>
+
+<category>
+    <pattern>* EXTC *</pattern>
+    <template>https://kgce.edu.in/e-tc-engineering/</template>
+</category>
+<category>
+    <pattern>* EXTC </pattern>
+    <template>https://kgce.edu.in/e-tc-engineering/</template>
+</category>
+<category>
+    <pattern> EXTC *</pattern>
+    <template>https://kgce.edu.in/e-tc-engineering/</template>
+</category>
+
+
+<category>
+    <pattern>* SCIENCE AND HUMANITIES *</pattern>
+    <template>https://kgce.edu.in/science-and-humanities/</template>
+</category>
+<category>
+    <pattern>* SCIENCE AND HUMANITIES </pattern>
+    <template>https://kgce.edu.in/science-and-humanities/</template>
+</category>
+<category>
+    <pattern> SCIENCE AND HUMANITIES *</pattern>
+    <template>https://kgce.edu.in/science-and-humanities/</template>
+</category>
+
+</aiml>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+    <category>
+      <pattern>
+         * LIBRARY
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           KGCE has 813.72 sq.m specious area for central Library.In the central library, we have different sections like: book stacking, periodicals, references, digital library with 17 nodes and well ventilated reading hall with capacity of 150+ students. All the books in Library have been classified as per Dewey decimal classification system. Transaction of books has been done by computerized system through SOUL 2.0 software.  Library and reading hall timing is  8.30 am to 5.00 pm .
+           
+          </li>
+          <li>https://kgce.edu.in/central-library/</li>
+        </random>
+          
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * LIBRARY *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           KGCE has 813.72 sq.m specious area for central Library.In the central library, we have different sections like: book stacking, periodicals, references, digital library with 17 nodes and well ventilated reading hall with capacity of 150+ students. All the books in Library have been classified as per Dewey decimal classification system. Transaction of books has been done by computerized system through SOUL 2.0 software.  Library and reading hall timing is  8.30 am to 5.00 pm .
+            
+          </li>
+          <li>https://kgce.edu.in/central-library/</li>
+        </random>
+          
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         LIBRARY *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           KGCE has 813.72 sq.m specious area for central Library.In the central library, we have different sections like: book stacking, periodicals, references, digital library with 17 nodes and well ventilated reading hall with capacity of 150+ students. All the books in Library have been classified as per Dewey decimal classification system. Transaction of books has been done by computerized system through SOUL 2.0 software.  Library and reading hall timing is  8.30 am to 5.00 pm .
+            
+          </li>
+          <li>https://kgce.edu.in/central-library/</li>
+        </random>
+          
+      </template>
+    </category>
+
+</aiml>

@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<aiml>
+
+    <category>
+      <pattern>
+         * EVENTS
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           Events held in our college are Hyper cube event,Alumni meet, Blood Donation,Womens day celebration,Spring Festa 
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * EVENTS *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           Events held in our college are Hyper cube event, Blood Donation,Industrial visit,Womens day celebration,Spring Festa 
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         EVENTS *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           Events held in our college are Hyper cube event, Blood Donation,Womens day celebration,Spring Festa 
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * BLOOD DONATION 
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/blood-donation-camp/
+          </li>
+        </random>
+          
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * BLOOD DONATION *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/blood-donation-camp/
+          </li>
+        </random>
+          
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         BLOOD DONATION *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/blood-donation-camp/
+          </li>
+        </random>
+          
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * HYPERCUBE EVENT
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/hyperkube-event/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * HYPERCUBE EVENT *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/hyperkube-event/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         HYPERCUBE EVENT *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/hyperkube-event/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * WOMENS DAY 
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/women-day-celebration/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * WOMENS DAY *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/women-day-celebration/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         WOMENS DAY *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/women-day-celebration/
+          </li>
+        </random>
+      </template>
+    </category>    
+
+    <category>
+      <pattern>
+         * SPRING FESTA 
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/spring-fiesta-program/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * SPRING FESTA *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/spring-fiesta-program/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         SPRING FESTA *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/spring-fiesta-program/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * INDUSTRIAL VISIT 
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/industrial-visits/
+          </li>
+        </random>
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+         * INDUSTRIAL VISIT *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/industrial-visits/
+          </li>
+        </random>
+      </template>
+    </category>
+    
+    <category>
+      <pattern>
+         INDUSTRIAL VISIT *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/industrial-visits/
+          </li>
+        </random>
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * CONVOCATION
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/convocation-2/
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * CONVOCATION *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/convocation-2/
+          </li>
+        </random>   
+      </template>
+    </category>
+    <category>
+      <pattern>
+         CONVOCATION *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/convocation-2/
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * ALUMNI MEET
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/alumni-meet/
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * ALUMNI MEET *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/alumni-meet/
+          </li>
+        </random>   
+      </template>
+    </category>
+    <category>
+      <pattern>
+         ALUMNI MEET *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           https://kgce.edu.in/alumni-meet/
+          </li>
+        </random>   
+      </template>
+    </category>
+
+</aiml>

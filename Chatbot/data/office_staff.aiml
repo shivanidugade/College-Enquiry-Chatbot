@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+
+    <category>
+      <pattern>
+         * OFFICE 
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           The Office Superintendent is Mrs. Jayashree V. Ranade
+          </li>
+          <li>https://kgce.edu.in/office-staff/
+          </li>
+        </random>   
+      </template>
+    </category>
+
+    <category>
+      <pattern>
+         * OFFICE *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           The Office Superintendent is Mrs. Jayashree V. Ranade
+           </li>
+          <li>https://kgce.edu.in/office-staff/
+          </li>
+        </random>   
+      </template>
+    </category>
+ 
+    <category>
+      <pattern>
+         OFFICE *
+      </pattern>
+
+      <template>
+        <random>
+          <li>
+           The Office Superintendent is Mrs. Jayashree V. Ranade
+           </li>
+          <li>https://kgce.edu.in/office-staff/
+          </li>
+        </random>   
+      </template>
+    </category>
+  
+</aiml>

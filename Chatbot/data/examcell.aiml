@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+    <pattern>* EXAM CELL *</pattern>
+    <template>https://kgce.edu.in/wp-content/uploads/2018/11/Examination-Committee.pdf</template>
+</category>
+<category>
+    <pattern>EXAM CELL *</pattern>
+    <template>https://kgce.edu.in/wp-content/uploads/2018/11/Examination-Committee.pdf</template>
+</category>
+<category>
+    <pattern>* EXAM CELL </pattern>
+    <template>https://kgce.edu.in/wp-content/uploads/2018/11/Examination-Committee.pdf</template>
+</category>
+
+<category>
+    <pattern>* EXAM NOTICE *</pattern>
+    <template>https://kgce.edu.in/exam-notice/</template>
+</category>
+<category>
+    <pattern>* EXAM NOTICE</pattern>
+    <template>https://kgce.edu.in/exam-notice/</template>
+</category>
+<category>
+    <pattern>EXAM NOTICE *</pattern>
+    <template>https://kgce.edu.in/exam-notice/</template>
+</category>
+
+<category>
+    <pattern>* EXAM CELL INCHARGE *</pattern>
+    <template>Prof. R. P. Narkhade ,Vice Principal(Administration) Exam Incharge</template>
+</category>
+<category>
+    <pattern>* EXAM CELL INCHARGE</pattern>
+    <template>Prof. R. P. Narkhade ,Vice Principal(Administration) Exam Incharge</template>
+</category>
+<category>
+    <pattern>EXAM CELL INCHARGE *</pattern>
+    <template>Prof. R. P. Narkhade ,Vice Principal(Administration) Exam Incharge</template>
+</category>
+
+<category>
+    <pattern>* TIME TABLE *</pattern>
+    <template>https://kgce.edu.in/univ-exam-time-table/</template>
+</category>
+<category>
+    <pattern>* TIME TABLE</pattern>
+    <template>https://kgce.edu.in/univ-exam-time-table/</template>
+</category>
+<category>
+    <pattern>TIME TABLE *</pattern>
+    <template>https://kgce.edu.in/univ-exam-time-table/</template>
+</category>
+
+<category>
+    <pattern>* EXAMINATION RESULT *</pattern>
+    <template>https://kgce.edu.in/exam-result-2/</template>
+</category>
+<category>
+    <pattern>EXAMINATION RESULT *</pattern>
+    <template>https://kgce.edu.in/exam-result-2/</template>
+</category>
+<category>
+    <pattern>* EXAMINATION RESULT</pattern>
+    <template>https://kgce.edu.in/exam-result-2/</template>
+</category>
+
+<category>
+    <pattern>* SEAT NUMBER *</pattern>
+    <template>https://kgce.edu.in/hall-ticket/</template>
+</category>
+<category>
+    <pattern>* SEAT NUMBER</pattern>
+    <template>https://kgce.edu.in/hall-ticket/</template>
+</category>
+<category>
+    <pattern>SEAT NUMBER *</pattern>
+    <template>https://kgce.edu.in/hall-ticket/</template>
+</category>
+
+<category>
+    <pattern>* OLD QUESTION PAPER *</pattern>
+    <template>https://kgce.edu.in/exam-old-qp/</template>
+</category>
+<category>
+    <pattern>* OLD QUESTION PAPER</pattern>
+    <template>https://kgce.edu.in/exam-old-qp/</template>
+</category>
+<category>
+    <pattern>OLD QUESTION PAPER *</pattern>
+    <template>https://kgce.edu.in/exam-old-qp/</template>
+</category>
+
+<category>
+    <pattern>* OLD QUESTION PAPERS *</pattern>
+    <template>https://kgce.edu.in/exam-old-qp/</template>
+</category>
+<category>
+    <pattern>* OLD QUESTION PAPERS</pattern>
+    <template>https://kgce.edu.in/exam-old-qp/</template>
+</category>
+<category>
+    <pattern>OLD QUESTION PAPERS *</pattern>
+    <template>https://kgce.edu.in/exam-old-qp/</template>
+</category>
+
+</aiml>

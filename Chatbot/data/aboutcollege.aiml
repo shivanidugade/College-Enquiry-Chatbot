@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+<category>
+  <pattern>* INSTITUTE *</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>* INSTITUTE </pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern> INSTITUTE *</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>* COLLEGE *</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>* COLLEGE </pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern> COLLEGE *</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>* TRUST *</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>TRUST *</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>* TRUST</pattern>
+  <template >https://kgce.edu.in/about-institute/</template>
+</category>
+<category>
+  <pattern>* CHAIRPERSON *</pattern>
+  <template>
+       <random>
+       <li>Smt.Anupama Dharkar Wangadi, Chairperson of Kokan Gyanpeeth College Of Engineering,Karjat. I welcome you and appeal you to be the member of Konkan Gyanpeeth family.</li>
+       </random>
+  </template>
+</category>
+<category>
+  <pattern>* CHAIRPERSON </pattern>
+  <template>
+       <random>
+       <li>Smt.Anupama Dharkar Wangadi, Chairperson of Kokan Gyanpeeth College Of Engineering,Karjat. I welcome you and appeal you to be the member of Konkan Gyanpeeth family.</li>
+       </random>
+  </template>
+</category>
+<category>
+  <pattern>CHAIRPERSON *</pattern>
+  <template>
+       <random>
+       <li>Smt.Anupama Dharkar Wangadi, Chairperson of Kokan Gyanpeeth College Of Engineering,Karjat. I welcome you and appeal you to be the member of Konkan Gyanpeeth family.</li>
+       </random>
+  </template>
+</category>
+<category>
+  <pattern>* CEO *</pattern>
+  <template>
+       <random>
+         <li>Mr. Pradeepchandra V. Shringarpure, CEO and Secretary of Kokan Gyanpeeth College Of Engineering,Karjat. I invite you to our campus and to be a part of the Konkan Gyanpeeth family.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern> CEO *</pattern>
+  <template>
+       <random>
+         <li>Mr. Pradeepchandra V. Shringarpure, CEO and Secretary of Kokan Gyanpeeth College Of Engineering,Karjat. I invite you to our campus and to be a part of the Konkan Gyanpeeth family.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* CEO </pattern>
+  <template>
+       <random>
+         <li>Mr. Pradeepchandra V. Shringarpure, CEO and Secretary of Kokan Gyanpeeth College Of Engineering,Karjat. I invite you to our campus and to be a part of the Konkan Gyanpeeth family.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* Secretary *</pattern>
+  <template>
+       <random>
+         <li>Mr. Pradeepchandra V. Shringarpure, CEO and Secretary of Kokan Gyanpeeth College Of Engineering,Karjat. I invite you to our campus and to be a part of the Konkan Gyanpeeth family.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern> Secretary *</pattern>
+  <template>
+       <random>
+         <li>Mr. Pradeepchandra V. Shringarpure, CEO and Secretary of Kokan Gyanpeeth College Of Engineering,Karjat. I invite you to our campus and to be a part of the Konkan Gyanpeeth family.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* Secretary </pattern>
+  <template>
+       <random>
+         <li>Mr. Pradeepchandra V. Shringarpure, CEO and Secretary of Kokan Gyanpeeth College Of Engineering,Karjat. I invite you to our campus and to be a part of the Konkan Gyanpeeth family.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* PRINCIPAL *</pattern>
+  <template>
+      <random>
+            <li>Dr. Madhukar J. Lengare, Ph.D. (Instrumentation Engineering.) Principal, KGCE, Karjat.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern> PRINCIPAL *</pattern>
+  <template>
+      <random>
+            <li>Dr. Madhukar J. Lengare, Ph.D. (Instrumentation Engineering.) Principal, KGCE, Karjat.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* PRINCIPAL </pattern>
+  <template>
+      <random>
+            <li>Dr. Madhukar J. Lengare, Ph.D. (Instrumentation Engineering.) Principal, KGCE, Karjat.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* VICE PRINCIPAL *</pattern>
+  <template>
+      <random>
+            <li>Dr. V.J.Pillewan, Vice Principal (Academic), KGCE, Karjat.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern> VICE PRINCIPAL *</pattern>
+  <template>
+      <random>
+            <li>Dr. V.J.Pillewan, Vice Principal (Academic), KGCE, Karjat.</li>
+      </random>
+  </template>
+</category>
+<category>
+  <pattern>* VICE PRINCIPAL </pattern>
+  <template>
+      <random>
+            <li>Dr. V.J.Pillewan, Vice Principal (Academic), KGCE, Karjat.</li>
+      </random>
+  </template>
+</category>
+</aiml>
